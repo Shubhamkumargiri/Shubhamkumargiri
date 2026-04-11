@@ -1,4 +1,5 @@
-**Software engineer turning ideas into useful products**<br>
+***SOFTWARE ENGINEER TURNING IDEAS INTO USEFUL PRODUCTS***<br>
+<br>
 Turning my own problems into projects. Building web apps and tools that quietly make life a bit easier.
 
 ## 🌐 Socials:
