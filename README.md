@@ -1,5 +1,4 @@
-# 💫 About Me:
- B.Tech CSE @ Parul University<br> MERN Stack Developer | Java Backend Developer<br> Passionate about building scalable web apps & AI-powered features<br> Tech Stack: Java | SQL | JavaScript | React | Node.js | MongoDB<br> Strong in DSA & problem solving<br> Always learning, always building
+Turning my own problems into projects. Building web apps and tools that quietly make life a bit easier.
 
 
 ## 🌐 Socials:
