@@ -1,4 +1,4 @@
-Software engineer turning ideas into useful products
+Software engineer turning ideas into useful products<br>
 I create what I wish existed—and sometimes others find it helpful too. Focused on web apps and practical tools.
 
 ## 🌐 Socials:
